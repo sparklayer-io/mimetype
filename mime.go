@@ -5,8 +5,8 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/gabriel-vasile/mimetype/internal/charset"
-	"github.com/gabriel-vasile/mimetype/internal/magic"
+	"github.com/sparklayer-io/mimetype/internal/charset"
+	"github.com/sparklayer-io/mimetype/internal/magic"
 )
 
 // MIME struct holds information about a file format: the string representation

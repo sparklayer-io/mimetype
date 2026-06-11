@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gabriel-vasile/mimetype/internal/scan"
+	"github.com/sparklayer-io/mimetype/internal/scan"
 )
 
 // These samples come from https://github.com/nst/JSONTestSuite.

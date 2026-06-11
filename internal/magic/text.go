@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/gabriel-vasile/mimetype/internal/charset"
-	"github.com/gabriel-vasile/mimetype/internal/json"
-	mkup "github.com/gabriel-vasile/mimetype/internal/markup"
-	"github.com/gabriel-vasile/mimetype/internal/scan"
+	"github.com/sparklayer-io/mimetype/internal/charset"
+	"github.com/sparklayer-io/mimetype/internal/json"
+	mkup "github.com/sparklayer-io/mimetype/internal/markup"
+	"github.com/sparklayer-io/mimetype/internal/scan"
 )
 
 // HTML matches a Hypertext Markup Language file.

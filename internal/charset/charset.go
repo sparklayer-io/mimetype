@@ -5,8 +5,8 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/gabriel-vasile/mimetype/internal/markup"
-	"github.com/gabriel-vasile/mimetype/internal/scan"
+	"github.com/sparklayer-io/mimetype/internal/markup"
+	"github.com/sparklayer-io/mimetype/internal/scan"
 )
 
 const (

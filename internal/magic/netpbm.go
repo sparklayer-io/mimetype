@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"strconv"
 
-	"github.com/gabriel-vasile/mimetype/internal/scan"
+	"github.com/sparklayer-io/mimetype/internal/scan"
 )
 
 // NetPBM matches a Netpbm Portable BitMap ASCII/Binary file.

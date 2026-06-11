@@ -3,7 +3,7 @@ package magic
 import (
 	"bytes"
 
-	"github.com/gabriel-vasile/mimetype/internal/scan"
+	"github.com/sparklayer-io/mimetype/internal/scan"
 )
 
 // Odt matches an OpenDocument Text file.

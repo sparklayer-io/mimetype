@@ -3,7 +3,7 @@ package mimetype
 import (
 	"sync"
 
-	"github.com/gabriel-vasile/mimetype/internal/magic"
+	"github.com/sparklayer-io/mimetype/internal/magic"
 )
 
 // mimetype stores the list of MIME types in a tree structure with

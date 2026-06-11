@@ -13,7 +13,7 @@ We want to keep our software safe for everyone.
 
 If you've discovered a security vulnerability in mimetype,
 we appreciate your help in disclosing it to us in a responsible manner,
-by creating a [security advisory](https://github.com/gabriel-vasile/mimetype/security/advisories).
+by creating a [security advisory](https://github.com/sparklayer-io/mimetype/security/advisories).
 
 ## Threat model
 These are the most common risk areas we think about when working on `mimetype`.
@@ -43,7 +43,7 @@ crafted inputs can exploit them and lead to denial-of-service attacks.
 Measures:
 
 1. Fuzzing: complex code is fuzzed.
-2. Each release is tested against a [corpora of files](https://github.com/gabriel-vasile/mimetype_tests/)
+2. Each release is tested against a [corpora of files](https://github.com/sparklayer-io/mimetype_tests/)
 that includes specially crafted, polyglot and edge-case files.
 
 ## Incident Response Plan

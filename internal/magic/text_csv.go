@@ -1,8 +1,8 @@
 package magic
 
 import (
-	"github.com/gabriel-vasile/mimetype/internal/csv"
-	"github.com/gabriel-vasile/mimetype/internal/scan"
+	"github.com/sparklayer-io/mimetype/internal/csv"
+	"github.com/sparklayer-io/mimetype/internal/scan"
 )
 
 // CSV matches a comma-separated values file.

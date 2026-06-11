@@ -3,7 +3,7 @@ package csv
 import (
 	"bytes"
 
-	"github.com/gabriel-vasile/mimetype/internal/scan"
+	"github.com/sparklayer-io/mimetype/internal/scan"
 )
 
 // Parser is a CSV reader that only counts fields.

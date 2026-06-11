@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/gabriel-vasile/mimetype/internal/mp3"
+	"github.com/sparklayer-io/mimetype/internal/mp3"
 )
 
 // Flac matches a Free Lossless Audio Codec file.

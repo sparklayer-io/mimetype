@@ -5,7 +5,7 @@ package markup
 import (
 	"bytes"
 
-	"github.com/gabriel-vasile/mimetype/internal/scan"
+	"github.com/sparklayer-io/mimetype/internal/scan"
 )
 
 // GetAnAttribute assumes we passed over an SGML tag and extracts first
